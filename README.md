@@ -1,6 +1,6 @@
 # RegEx Sandbox
 
-An interactive RegEx Sandbox.
+An interactive JavaScript playground for testing and learning regular expressions. This project allows users to input custom regex patterns and test them against sample text, making it a practical tool for experimenting with pattern matching, text validation, and string manipulation.
 
 ---
 
@@ -26,9 +26,11 @@ An interactive RegEx Sandbox.
 
 ## 📚 Features
 
-- Feature 1: Brief description
-- Feature 2: Brief description
-- Feature 3: Brief description
+- **Regex testing playground**: Input custom regex patterns and test them against text.
+- **Instant feedback**: Highlights matches in real time.
+- **Predefined examples**: Includes common regex patterns for quick learning.
+- **Interactive UI**: Clean and responsive design for desktop and mobile.
+- **Educational focus**: Helps beginners understand regex syntax and usage.
 
 ---
 
@@ -63,10 +65,11 @@ root/
 
 ## 📌 Future Improvements
 
-- Add accessibility enhancements
-- Improve mobile responsiveness
-- Add more interactive features
+- Add more predefined regex examples (e.g., email validation, phone numbers).
+- Provide syntax highlighting for regex patterns.
+- Add accessibility enhancements (keyboard navigation, ARIA labels).
+- Improve mobile responsiveness with better layout adjustments.
 
 ## ℹ️ About
 
-This project is part of the **FreeCodeCamp JavaScript curriculum** and highlights skills in **string manipulation, RegEx, and DOM interaction**.
+This project is part of the **FreeCodeCamp JavaScript curriculum** and highlights skills in **regular expressions, DOM manipulation, and interactive UI design**. It serves as a practical sandbox for experimenting with regex in real‑world scenarios.
