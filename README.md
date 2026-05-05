@@ -1,12 +1,12 @@
-# Project Title
+# RegEx Sandbox
 
-*An interactive storytelling app built with vanilla JavaScript.*
+An interactive RegEx Sandbox.
 
 ---
 
 ## 🚀 Live Demo
 
-[View Project](https://himanshu-kumar-2301.github.io/project-name/)
+[View Project](https://himanshu-kumar-2301.github.io/fcc-js-regex-sandbox/)
 
 ---
 
@@ -50,13 +50,13 @@ root/
 1. Clone the repo:
 
     ```bash
-    git clone https://github.com/Himanshu-Kumar-2301/project-name.git
+    git clone https://github.com/Himanshu-Kumar-2301/fcc-js-regex-sandbox.git
     ```
 
 2. Navigate into the folder
 
     ```bash
-    cd project-name
+    cd fcc-js-regex-sandbox
     ```
 
 3. Open ```index.html``` in your browser.
@@ -68,3 +68,5 @@ root/
 - Add more interactive features
 
 ## ℹ️ About
+
+This project is part of the **FreeCodeCamp JavaScript curriculum** and highlights skills in **string manipulation, RegEx, and DOM interaction**.
